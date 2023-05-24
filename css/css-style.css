@@ -1,28 +1,4 @@
-/*
-* ----------------------------------------------------
-Author       : Ideas_Factory
-Template Name: Riyad - Creative vCard / Resume / CV / Portfolio
-* ----------------------------------------------------
-*/
 
-/*
-* -----------------------------------------------------
-*  01.Common Styles 
-*  02.Preloader 
-*  03.Home Section
-*  04.About Section
-*  05.Resume Section 
-*  06.Prtfolio Section
-*  07.Blog Section
-*  08.Contact Section 
-* -----------------------------------------------------
-*/
-
-
-
-/*=================================*/
-/*  01.Common Styles 
-/*=================================*/
 
 * {
     margin: 0;
@@ -737,7 +713,7 @@ h3.subtitle:after {
 .social-icons a {
     position: relative;
     z-index: 5;
-    font-size: 12px;
+    font-size: 32px;
     color: #fff;
     margin-left: 5px;
     line-height: 26px;
